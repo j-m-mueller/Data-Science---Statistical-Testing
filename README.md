@@ -1,4 +1,4 @@
-# Data Science - Statistical Testing
+# Statistical Testing
 
 Demo Jupyter Notebook script for the demonstration of basic statistical tests using the *SciPy* package and the diabetes dataset from the *sklearn* package.
 
